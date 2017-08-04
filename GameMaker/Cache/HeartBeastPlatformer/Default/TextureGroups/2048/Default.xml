@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="1">s_solid_s_solid_0.tpe</tpe>
+  <tpe x="2" y="38" tpage="Default_0" entry="2">s_player_s_player_0.tpe</tpe>
+  <tpe x="2" y="74" tpage="Default_0" entry="0">s_gun_s_gun_0.tpe</tpe>
+</TextureGroup>

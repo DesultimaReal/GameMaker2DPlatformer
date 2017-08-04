@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>60</w>
+  <h>48</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>3865668758</hash>
+  <xoffset>2</xoffset>
+  <yoffset>8</yoffset>
+  <cropWidth>60</cropWidth>
+  <cropHeight>48</cropHeight>
+  <ow>64</ow>
+  <oh>64</oh>
+  <image>spr_load_spr_load_0.tpe.png</image>
+</TPE>

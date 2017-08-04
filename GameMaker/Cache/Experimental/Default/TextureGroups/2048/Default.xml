@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="1">Hero_Hero_0.tpe</tpe>
+  <tpe x="2" y="70" tpage="Default_0" entry="2">BulletProducer_BulletProducer_0.tpe</tpe>
+  <tpe x="2" y="138" tpage="Default_0" entry="0">Phase2_Phase2_0.tpe</tpe>
+  <tpe x="2" y="202" tpage="Default_0" entry="3">BulletOne_BulletOne_0.tpe</tpe>
+</TextureGroup>

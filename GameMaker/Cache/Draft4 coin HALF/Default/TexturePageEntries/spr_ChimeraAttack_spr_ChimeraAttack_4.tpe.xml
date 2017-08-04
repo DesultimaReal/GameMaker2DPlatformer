@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>64</w>
+  <h>50</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>2861799326</hash>
+  <xoffset>1</xoffset>
+  <yoffset>17</yoffset>
+  <cropWidth>64</cropWidth>
+  <cropHeight>50</cropHeight>
+  <ow>80</ow>
+  <oh>80</oh>
+  <image>spr_ChimeraAttack_spr_ChimeraAttack_4.tpe.png</image>
+</TPE>

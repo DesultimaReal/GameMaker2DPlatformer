@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="0">spr_Head_spr_Head_0.tpe</tpe>
+  <tpe x="2" y="38" tpage="Default_0" entry="1">spr_Tail_spr_Tail_0.tpe</tpe>
+  <tpe x="2" y="74" tpage="Default_0" entry="2">spr_Head_spr_Head_1.tpe</tpe>
+  <tpe x="38" y="2" tpage="Default_0" entry="3">spr_Head_spr_Head_2.tpe</tpe>
+  <tpe x="74" y="2" tpage="Default_0" entry="4">spr_Head_spr_Head_3.tpe</tpe>
+  <tpe x="38" y="38" tpage="Default_0" entry="5">spr_special_spr_special_0.tpe</tpe>
+  <tpe x="38" y="74" tpage="Default_0" entry="6">spr_food_spr_food_0.tpe</tpe>
+</TextureGroup>

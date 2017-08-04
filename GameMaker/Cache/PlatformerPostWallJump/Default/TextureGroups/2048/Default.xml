@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="22">spr_em_piece_spr_em_piece_0.tpe</tpe>
+  <tpe x="50" y="2" tpage="Default_0" entry="1">spr_player_spr_player_0.tpe</tpe>
+  <tpe x="86" y="2" tpage="Default_0" entry="0">spr_wall_spr_wall_0.tpe</tpe>
+  <tpe x="38" y="38" tpage="Default_0" entry="2">spr_brokenwall_spr_brokenwall_0.tpe</tpe>
+  <tpe x="2" y="34" tpage="Default_0" entry="3">spr_player_power_spr_player_power_0.tpe</tpe>
+  <tpe x="38" y="38" tpage="Default_0" entry="4">spr_brokenwall_spr_brokenwall_1.tpe</tpe>
+  <tpe x="74" y="38" tpage="Default_0" entry="5">spr_brokenwall_spr_brokenwall_2.tpe</tpe>
+  <tpe x="74" y="38" tpage="Default_0" entry="6">spr_brokenwall_spr_brokenwall_3.tpe</tpe>
+  <tpe x="2" y="70" tpage="Default_0" entry="9">spr_copper_spr_copper_0.tpe</tpe>
+  <tpe x="38" y="74" tpage="Default_0" entry="15">spr_emerald_spr_emerald_0.tpe</tpe>
+  <tpe x="74" y="74" tpage="Default_0" entry="18">spr_inactive_spr_inactive_0.tpe</tpe>
+  <tpe x="2" y="106" tpage="Default_0" entry="19">spr_gold_spr_gold_0.tpe</tpe>
+  <tpe x="38" y="110" tpage="Default_0" entry="21">spr_iron_spr_iron_0.tpe</tpe>
+  <tpe x="74" y="110" tpage="Default_0" entry="11">spr_enemy_spr_enemy_0.tpe</tpe>
+  <tpe x="2" y="142" tpage="Default_0" entry="17">spr_platformH_spr_platformH_0.tpe</tpe>
+  <tpe x="2" y="142" tpage="Default_0" entry="20">spr_platform_spr_platform_0.tpe</tpe>
+  <tpe x="2" y="162" tpage="Default_0" entry="7">spr_powerup_spr_powerup_0.tpe</tpe>
+  <tpe x="110" y="38" tpage="Default_0" entry="8">Drill_Drill_0.tpe</tpe>
+  <tpe x="2" y="194" tpage="Default_0" entry="10">Drill_Drill_1.tpe</tpe>
+  <tpe x="110" y="58" tpage="Default_0" entry="12">Drill_Drill_2.tpe</tpe>
+  <tpe x="2" y="214" tpage="Default_0" entry="14">Drill_Drill_3.tpe</tpe>
+  <tpe x="110" y="78" tpage="Default_0" entry="16">spr_cplarge_spr_cplarge_0.tpe</tpe>
+  <tpe x="26" y="162" tpage="Default_0" entry="13">spr_cp_spr_cp_0.tpe</tpe>
+</TextureGroup>

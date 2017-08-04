@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="74" tpage="Default_0" entry="1">spr_brokenwall_spr_brokenwall_0.tpe</tpe>
+  <tpe x="2" y="2" tpage="Default_0" entry="0">spr_wall_spr_wall_0.tpe</tpe>
+  <tpe x="2" y="38" tpage="Default_0" entry="2">spr_player_power_spr_player_power_0.tpe</tpe>
+  <tpe x="2" y="74" tpage="Default_0" entry="3">spr_brokenwall_spr_brokenwall_1.tpe</tpe>
+  <tpe x="38" y="2" tpage="Default_0" entry="4">spr_brokenwall_spr_brokenwall_2.tpe</tpe>
+  <tpe x="38" y="2" tpage="Default_0" entry="5">spr_brokenwall_spr_brokenwall_3.tpe</tpe>
+  <tpe x="74" y="2" tpage="Default_0" entry="6">spr_player_spr_player_0.tpe</tpe>
+  <tpe x="38" y="38" tpage="Default_0" entry="8">spr_inactive_spr_inactive_0.tpe</tpe>
+  <tpe x="38" y="74" tpage="Default_0" entry="11">spr_enemy_spr_enemy_0.tpe</tpe>
+  <tpe x="2" y="110" tpage="Default_0" entry="13">spr_platform_spr_platform_0.tpe</tpe>
+  <tpe x="2" y="110" tpage="Default_0" entry="15">spr_platformH_spr_platformH_0.tpe</tpe>
+  <tpe x="74" y="38" tpage="Default_0" entry="7">spr_powerup_spr_powerup_0.tpe</tpe>
+  <tpe x="110" y="2" tpage="Default_0" entry="9">Drill_Drill_0.tpe</tpe>
+  <tpe x="38" y="110" tpage="Default_0" entry="10">Drill_Drill_1.tpe</tpe>
+  <tpe x="98" y="38" tpage="Default_0" entry="12">Drill_Drill_2.tpe</tpe>
+  <tpe x="58" y="110" tpage="Default_0" entry="14">Drill_Drill_3.tpe</tpe>
+</TextureGroup>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="4" y="4" tpage="Default_0" entry="2">background0_background0.tpe</tpe>
+  <tpe x="2" y="610" tpage="Default_0" entry="0">spr_paddle_spr_paddle_0.tpe</tpe>
+  <tpe x="22" y="610" tpage="Default_0" entry="1">spr_square_spr_square_0.tpe</tpe>
+</TextureGroup>

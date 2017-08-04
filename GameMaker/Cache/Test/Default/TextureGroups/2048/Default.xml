@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="1">TestPlayer_TestPlayer_0.tpe</tpe>
+  <tpe x="2" y="38" tpage="Default_0" entry="3">spr_FBright_spr_FBright_2.tpe</tpe>
+  <tpe x="2" y="50" tpage="Default_0" entry="0">spr_FBright_spr_FBright_0.tpe</tpe>
+  <tpe x="22" y="38" tpage="Default_0" entry="2">spr_FBright_spr_FBright_1.tpe</tpe>
+</TextureGroup>

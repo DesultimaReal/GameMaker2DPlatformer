@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="0" y="2" tpage="Default_0" entry="14">font0_font0.tpe</tpe>
+  <tpe x="2" y="134" tpage="Default_0" entry="2">spr_save_spr_save_0.tpe</tpe>
+  <tpe x="2" y="202" tpage="Default_0" entry="13">spr_load_spr_load_0.tpe</tpe>
+  <tpe x="66" y="202" tpage="Default_0" entry="1">spr_chest_spr_chest_0.tpe</tpe>
+  <tpe x="70" y="134" tpage="Default_0" entry="11">spr_chest_spr_chest_1.tpe</tpe>
+  <tpe x="102" y="170" tpage="Default_0" entry="12">spr_chest_spr_chest_2.tpe</tpe>
+  <tpe x="102" y="206" tpage="Default_0" entry="5">spr_coin_spr_coin_2.tpe</tpe>
+  <tpe x="70" y="170" tpage="Default_0" entry="6">spr_coin_spr_coin_3.tpe</tpe>
+  <tpe x="106" y="134" tpage="Default_0" entry="7">spr_coin_spr_coin_4.tpe</tpe>
+  <tpe x="102" y="230" tpage="Default_0" entry="8">spr_coin_spr_coin_5.tpe</tpe>
+  <tpe x="122" y="230" tpage="Default_0" entry="4">spr_coin_spr_coin_1.tpe</tpe>
+  <tpe x="126" y="206" tpage="Default_0" entry="9">spr_coin_spr_coin_6.tpe</tpe>
+  <tpe x="130" y="134" tpage="Default_0" entry="3">spr_coin_spr_coin_0.tpe</tpe>
+  <tpe x="138" y="158" tpage="Default_0" entry="10">spr_coin_spr_coin_7.tpe</tpe>
+  <tpe x="66" y="238" tpage="Default_0" entry="0">spr_shadow_spr_shadow_0.tpe</tpe>
+</TextureGroup>

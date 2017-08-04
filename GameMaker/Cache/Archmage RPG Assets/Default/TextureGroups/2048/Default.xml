@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="10">spr_tree_spr_tree_0.tpe</tpe>
+  <tpe x="2" y="142" tpage="Default_0" entry="12">spr_tree_spr_tree_1.tpe</tpe>
+  <tpe x="142" y="2" tpage="Default_0" entry="13">spr_tree_spr_tree_2.tpe</tpe>
+  <tpe x="122" y="142" tpage="Default_0" entry="9">spr_bush_one_spr_bush_one_0.tpe</tpe>
+  <tpe x="124" y="236" tpage="Default_0" entry="23">bg_grass_bg_grass.tpe</tpe>
+  <tpe x="2" y="266" tpage="Default_0" entry="16">spr_tree_spr_tree_3.tpe</tpe>
+  <tpe x="194" y="234" tpage="Default_0" entry="15">spr_bush_two_spr_bush_two_0.tpe</tpe>
+  <tpe x="142" y="98" tpage="Default_0" entry="18">spr_tree_spr_tree_4.tpe</tpe>
+  <tpe x="70" y="266" tpage="Default_0" entry="14">spr_button_spr_button_0.tpe</tpe>
+  <tpe x="194" y="290" tpage="Default_0" entry="17">spr_button_spr_button_1.tpe</tpe>
+  <tpe x="238" y="2" tpage="Default_0" entry="7">spr_body_spr_body_4.tpe</tpe>
+  <tpe x="214" y="98" tpage="Default_0" entry="4">spr_body_spr_body_1.tpe</tpe>
+  <tpe x="70" y="302" tpage="Default_0" entry="8">spr_body_spr_body_5.tpe</tpe>
+  <tpe x="230" y="290" tpage="Default_0" entry="0">spr_body_spr_body_0.tpe</tpe>
+  <tpe x="230" y="290" tpage="Default_0" entry="6">spr_body_spr_body_3.tpe</tpe>
+  <tpe x="106" y="266" tpage="Default_0" entry="5">spr_body_spr_body_2.tpe</tpe>
+  <tpe x="238" y="30" tpage="Default_0" entry="11">spr_cape_top_spr_cape_top_0.tpe</tpe>
+  <tpe x="230" y="98" tpage="Default_0" entry="19">spr_player_mask_spr_player_mask_0.tpe</tpe>
+  <tpe x="214" y="134" tpage="Default_0" entry="20">spr_ice_spell_spr_ice_spell_0.tpe</tpe>
+  <tpe x="178" y="98" tpage="Default_0" entry="21">spr_fireball_spr_fireball_0.tpe</tpe>
+  <tpe x="90" y="302" tpage="Default_0" entry="3">spr_cape_middle_spr_cape_middle_0.tpe</tpe>
+  <tpe x="238" y="58" tpage="Default_0" entry="2">spr_cape_bottom_spr_cape_bottom_0.tpe</tpe>
+  <tpe x="214" y="154" tpage="Default_0" entry="1">spr_head_spr_head_0.tpe</tpe>
+  <tpe x="250" y="290" tpage="Default_0" entry="22">spr_beam_spell_spr_beam_spell_0.tpe</tpe>
+</TextureGroup>
